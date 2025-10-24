@@ -59,7 +59,7 @@ navigationLinks:
 #  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/mentors/", text: "Mentoria"}
+# - {permalink: "/mentors/", text: "Mentoria"}
 #  - {permalink: "/kids/", text: "Trilha Kids"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -68,9 +68,9 @@ navigationLinks:
  - {link: "https://github.com/gdgcampinas/devfest-code-of-conduct/blob/master/README.md", text: "Código de Conduta"} 
  
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
+ - {link: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400", text: "Compre seu ingresso"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
+ - {link: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400", text: "Compre seu ingresso"}
 
 # Hero Block
 heroImage: "hero2.png"
@@ -110,32 +110,21 @@ rockstarLinkEnabled: true
 rockstarSpeakersButtonText: "Todos palestrantes"
 # rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 
-# Media
-media:
-  title: "Veja como foi o Devfest 2017"
-  video: "https://www.youtube.com/embed/zE_sph24Qrk"
-  photos:
-    row: 4
-    total: 16
-  button:
-    text: "Devfest 2017"
-    link: "https://gdgcampinas.github.io/devfest-2017/"
-
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "Vitória Concept"
-eventLocationLink: "http://www.vitoriahoteis.com.br/pt/hotel-concept-campinas-o-hotel/"
-eventStreetAddress: "Av. José de Souza Campos, 425"
+eventLocationName: "Fatec Campinas"
+eventLocationLink: "https://fateccampinas.edu.br/site/"
+eventStreetAddress: "Av. Cônego Antônio Roccato, 593"
 eventAddressLocality: "Campinas"
-eventAddressLocalityRegion: "Hotel Vitória Concept"
-eventPostalCode: "13092-123"
+eventAddressLocalityRegion: "Fatec Campinas"
+eventPostalCode: "13082-015"
 eventAddressCountry: "Brasil"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: "-22.902318, -47.048125"
-mapCenterCoordinates: "-22.902318, -47.048125"
-mapMobileCenterCoordinates: "-22.902318, -47.048125"
+eventPlaceCoordinates: "-22.861899921707796, -47.09909208650581"
+mapCenterCoordinates: "-22.861899921707796, -47.09909208650581"
+mapMobileCenterCoordinates: "-22.861899921707796, -47.09909208650581"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -143,8 +132,8 @@ venueBigImage: "venue_campinas_0.jpg"
 venueSmallImage1: "venue_campinas_1.jpg"
 venueSmallImage2: "venue_campinas_2.jpg"
 venueSmallImage3: "venue_campinas_3.jpg"
-venueTitle: "Vitória Concept"
-venueFeatures: ["Hotel"]
+venueTitle: "Fatec Campinas"
+venueFeatures: ["Fatec"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -175,7 +164,7 @@ ticketsOffers:
   price: "80,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: ""
   validThrough: ""
@@ -188,7 +177,7 @@ ticketsOffers:
   price: "105,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: ""
   validThrough: ""
@@ -201,7 +190,7 @@ ticketsOffers:
   price: "151,50"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: ""
   validThrough: ""
@@ -213,7 +202,7 @@ ticketsOffers:
   price: "70,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: "20/10/2018T00:00"
   validThrough: "23/11/2018T23:30"
@@ -226,7 +215,7 @@ ticketsOffers:
   price: "95,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: "29/10/2017T00:00"
   validThrough: "21/11/2018T00:00"
@@ -240,7 +229,7 @@ ticketsOffers:
   price: "100,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
   validThrough: "19/10/2018T00:00"
@@ -254,7 +243,7 @@ ticketsOffers:
   price: "130,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
   validThrough: "19/10/2018T00:00"
@@ -268,7 +257,7 @@ ticketsOffers:
   price: "172,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: "31/10/2018T00:00"
   validThrough: "19/10/2018T00:00"
@@ -282,7 +271,7 @@ ticketsOffers:
   price: "190,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: "19/11/2018T00:00"
   validThrough: "24/10/2018T00:00"
@@ -296,7 +285,7 @@ ticketsOffers:
   price: "25,00"
   priceCurrency: "R$"
   ticketsNumber: "TBD"
-  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonLink: "https://www.sympla.com.br/evento/devfest-campinas-2025/3171400"
   buyButtonText: "Comprar"
   validFrom: "19/11/2018T00:00"
   validThrough: "24/10/2018T00:00"
