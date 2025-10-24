@@ -74,8 +74,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero2.png"
-heroTitle: "DevFest <typeout> 2018"
-eventDate: "24 de Novembro de 2018"
+heroTitle: "DevFest <typeout> 2025"
+eventDate: "29 de Novembro de 2025"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 # heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
@@ -310,6 +310,7 @@ footerBlocks:
    - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
    - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
    - {link: "https://gdgcampinas.github.io/devfest-2017/", text: "DevFest Campinas 2017"}
+    - {link: "https://gdgcampinas.github.io/devfest-2018/", text: "DevFest Campinas 2018"}
  
   title: "Eventos 2018"
   links:
