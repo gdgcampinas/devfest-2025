@@ -1,0 +1,501 @@
+# Gabriela Ferrara
+-
+  id: 001
+  name: "Gabriela D'Ávila"
+  surname: "Ferrara"
+  company: "Google"
+  title: "Developer Advocate"
+  bio: "Gabi é Developer Advocate para o Google Cloud e Data Engineer. Ela gosta de simplificar sistemas complexos e acredita que as abstrações são melhores quando podem ser entendidas em um exemplo da vida real. É motivada a ir além da linguagem do DBA para tornar a tecnologia de banco de dados e armazenamento mais acessível aos desenvolvedores."
+  thumbnailUrl: GabrielaFerrara.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "http://www.linkedin.com/in/gabidavila" }
+    - { name: "twitter", link: "http://www.twitter.com/gabidavila" }
+
+# Fabiano Monte
+-
+  id: 002
+  name: "Fabiano Queiroz"
+  surname: "Monte"
+  company: "IE Intercâmbio"
+  title: "Analista de Sistemas"
+  bio: "Profissional de TI formado e com mais de 20 anos de experiência. Consultor de novas tecnologias, IoT, Machine Learning, Integração Contínua, Scrum, DevOps e palestrante sobre Ferramentas Google. Sou um cara que acredita nas pessoas, gosta de aprender e ensinar. Amo e luto muito pela area de tecnologia e inovação. Incentivo a comunidade e sou líder do GDG Grande Vitória no ES. Participo e faço eventos de tecnologia entre eles o GDG, Google I/O, Tedx, Startup Weekend, Hackaton da Globo e DevES."
+  thumbnailUrl: FabianoMonte.jpg
+  rockstar: false
+  social:
+    - { name: "site", link: "http://fabianomonte.info/" }
+
+# Jon Bloom
+-
+  id: 003
+  name: "Jon"
+  surname: "Bloom"
+  company: "Google"
+  title: "Senior Conversation Designer"
+  bio: "Jonathan Bloom is a Senior Conversation Designer for Google, focusing on the Google Assistant. Jon was previously the UX Research Lead for the social robot Jibo, named one of Time Magazine’s 25 Best Inventions of 2017. Jon was also Senior Voice User Interface Manager for Nuance Communications, where he sat on Nuance’s Innovation Steering Committee. Over his 20-year career, Jon has designed graphic, speech, and multimodal user interfaces for robots, IVR’s, dictation software, cars, and mobile applications.  He has designed for Citibank, Verizon, Amtrak, Time Warner, Guardian, USAA, Charter Communications, Nestle Waters, eBay, Radio Shack, and many others.  Jon holds a Ph.D. in Cognitive Psychology from the New School for Social Research."
+  thumbnailUrl: JonBloom.jpg
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/talk2machines" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/jonathan-bloom-0293124/" }
+
+# Maujor (Maurício Samy Silva)
+-
+  id: 004
+  name: "Maujor"
+  surname: "(Maurício Samy Silva)"
+  company: ""
+  title: "Dinossauro do CSS"
+  bio: "Maurício Samy Silva também conhecido como \"Dinossauro das CSS\" ou simplesmente Maujor® é graduado em Engenharia Civil pelo Instituto Militar de Engenharia (IME). Exerceu o magistério paralelamente à Engenharia, tendo sido, ao longo de 25 anos, professor de Geometria Descritiva e Matemática. Sua experiência com desenvolvimento web iniciou-se em 1999, após se aposentar aos 56 anos e conhecer o FrontPage. Em 2002, por acaso teve seu primeiro contato com o site do W3C, começou a pesquisar e estudar os Padrões Web e não parou mais. Maujor é autor de vários livros e mantém o site https://maujor.com."
+  thumbnailUrl: Maujor.jpg
+  mentor: true
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/maujor" }
+    - { name: "site", link: "https://maujor.com" }
+
+# Daniel Cukier
+-
+  id: 006
+  name: "Daniel"
+  surname: "Cukier"
+  company: "Playax"
+  title: "CTO"
+  bio: "Pai da Laura, CTO na Playax. PhD em Ciência da Computação na USP e professor de JavaScript sênior na Laboratoria. Google Developer Expert (GDE) e meditador Vipassana"
+  thumbnailUrl: DanielCukier.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - { name: "twitter", link: "http://www.twitter.com/danicuki" }
+
+# Richard de Jesus
+- 
+  id: 008
+  name: "Richard"
+  surname: "de Jesus"
+  company: "SpartansClub"
+  title: "Co-Founder"
+  bio: "Senior UX Designer, apaixonado pela tecnologia, especialista em conectar pessoas e negócios através de excelente experiencia de usário (UX)"
+  thumbnailUrl: RichardJesus.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/richardrx/"}
+
+# Daniel Furtado
+- 
+  id: 009
+  name: "Daniel"
+  surname: "Furtado"
+  company: "Wezen"
+  title: "Designer"
+  bio: "Fundador da Wezen (estúdio de design de interação e experiência do usuário) e com 20 anos de experiência em design, acredita que produtos e serviços poderiam ser bem melhores do que são. 
+Criou o canal UXNOW para explicar sobre UX, Design Centrado no Usuário e Arquitetura da Informação. 
+Como professor, lecionou em diversas disciplinas relacionadas à design e UX (IBTA/Metrocamp/Véris, PeopleTec, Iladec, Faculdade Impacta Tecnologia, entre outros)."
+  thumbnailUrl: DanielFurtado.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danielfurtado/"}
+
+# Raphael Moraes
+- 
+  id: 011
+  name: "Raphael"
+  surname: "Moraes"
+  company: "Movile"
+  title: "Frontend Engineer"
+  bio: "Engenheiro de Computação formado pela PUC-Campinas finalizando a bi-titulação em Engenharia de Software e Gestão, Marketing e Empreendedorismo, atualmente trabalha como Engenheiro de Frontend para a Movile Brasil tendo grande experiencia na stack de interface, sendo um evangelista do Javascript."
+  thumbnailUrl: RaphaelMoraes.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/raphael-moraes-26951821/"}
+
+# Douglas Augusto
+-
+  id: 012
+  name: "Douglas"
+  surname: "Augusto"
+  company: "Avenue Code"
+  title: "Cloud Engineer"
+  bio: "Douglas Augusto é apaixonado pelas áreas de Cloud Computing e Machine Learning, atualmente trabalha como Cloud Engineer na Avenue Code, empresa norte americana que presta consultoria em tecnologia para grandes clientes.  Na sua carreira, participou de projetos inovadores para clientes como Coca Cola, Fiat e Jeep. Possui certificado de Arquiteto Google Cloud e tem clientes particulares na área de Aprendizado Máquina. É organizador das comunidades GDG João Monlevade e a Google Cloud Developer Community Belo Horizonte. Presta mentorias de Cloud Computing e Machine Learning no Google Launchpad, programa de aceleração de startups da Google."
+  thumbnailUrl: DouglasAugusto.jpg
+  mentor: true
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/douglasaugusto/" }
+    - { name: "site", link: "https://douglasaugus.to/" }
+
+# Denis Piaia
+-
+  id: 013
+  name: "Denis"
+  surname: "Piaia"
+  company: "iFood"
+  title: "Senior Designer"
+  bio: "Formado em Marketing e apaixonado por tecnologia, Denis é Designer no iFood, Líder local do Interaction Design Association (IxDA) e organizador de meetups relacionados a Experiência do Usuário. Já foi líder de design da Superlógica Tecnologias e PJBank Pagamentos."
+  thumbnailUrl: DenisPiaia.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "linkedin.com/in/denispiaia" }
+    - { name: "twitter", link: "twitter.com/denispiaia" }
+
+# Higor Alves
+-
+  id: 014
+  name: "Higor"
+  surname: "Alves"
+  company: "UNA/SUS Universidade Aberta do SUS"
+  title: "Desenvolvedor"
+  bio: ""
+  thumbnailUrl: HigorAlves.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/higor-alves-817810bb/" }
+    - { name: "twitter", link: "https://twitter.com/higorhaalves" }
+    - { name: "facebook", link: "https://www.facebook.com/higorhalves" }
+
+# Flavio Pimenta
+-
+  id: 015
+  name: "Flávio"
+  surname: "Pimenta"
+  company: "Assertiva Soluções"
+  title: "Arquiteto Cloud"
+  bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções. Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
+  thumbnailUrl: FlavioPimenta.jpg
+  rockstar: false
+  mentor: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/flaap" }
+    - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
+
+# Douglas Silva
+-
+  id: 016
+  name: "Douglas"
+  surname: "Silva"
+  company: "Everlog"
+  title: "Product Owner"
+  bio: "Douglas Siqueira  - Product Owner na Everlog, formado em Ciência da Computação e pós graduado em Marketing Digital. Desenvolve aplicações de 2010, entusiasta de blockchain e machine learning."
+  thumbnailUrl: DouglasSilva.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/douglas-siqueira/" }
+
+# Rodrigo Pokemon
+-
+  id: 017
+  name: "Rodrigo"
+  surname: "Pokemon"
+  company: "iMasters"
+  title: "Community Manager"
+  bio: "Bacharel em Matemática Aplicada e Computacional pela Universidade Federal Rural do Rio de Janeiro, MBA em Engenharia de Software Orientada para Serviço pela Metrocamp. Community Manager no iMasters. Programador desde 1999. Evangelista PHPSP. Desenvolve sistemas desde batalhas Pokemon para mIRC até robôs automatizadores de tarefas."
+  thumbnailUrl: RodrigoPokemon.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/pokemaobr/" }
+    
+# Filipe Lopes
+-
+  id: 018
+  name: "Filipe"
+  surname: "Lopes"
+  company: "Ci&t"
+  title: "Software QA Tester"
+  bio: "Filipe Lopes, vindo de tão tão distante na Amazônia para se tornar Tester de software na Ci&t. Portador de Deficiência física, idealizador do QA A11y que promover a acessibilidade na Web e capacitar pessoas com deficiência para trabalhar com qualidade de software"
+  thumbnailUrl: FilipeLopes.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/filipeclopes/" }
+
+# Igor Halfeld
+-
+  id: 019
+  name: "Igor"
+  surname: "Halfeld"
+  company: "NOALVO"
+  title: "Software Consultant"
+  bio: "Software consultant, organizador do Vue.js Summit e dos meetups Vue.js SP e JSSP"
+  thumbnailUrl: IgorHalfeld.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/igorhalfeld/" }
+    - { name: "twitter", link: "https://twitter.com/igorhalfeld" }
+    - { name: "github", link: "https://github.com/igorhalfeld" }
+    - { name: "site", link: "http://igorluiz.me" }
+
+# Renato Ramos
+-
+  id: 020
+  name: "Renato"
+  surname: "Ramos"
+  company: "Appito"
+  title: "Android Senior Developer"
+  bio: "Quer entender como conseguir uma oportunidade em outro pais(Eua, Europa etc..)  Como entender se voce está realmente preparado para ir embora para outro pais, como se portar nos processos seletivos, o que fazer ? o que comer ? onde dormir ?"
+  thumbnailUrl: RenatoRamos.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/renato-ramos-95885a38/" }
+
+# Igor Ming
+-
+  id: 021
+  name: "Igor"
+  surname: "Ming"
+  company: "S2 IT"
+  title: "Especialista Frontend"
+  bio: "Apreciador de tecnologias open source, especialista Frontend e alguém realmente apaixonado pelo que faz. Seja atuando diretamente, ou compartilhando/trocando conhecimento."
+  thumbnailUrl: IgorMing.jpg
+  rockstar: false
+  mentor: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/igor-mesquita-12848033/" }
+
+# Henrique Candella
+-
+  id: 022
+  name: "Henrique"
+  surname: "Candella"
+  company: "Instituto da Família"
+  title: "Psicanalista"
+  bio: "Psicanalista e Organizar GDG Campinas, Coordenador do Instituto da Família."
+  thumbnailUrl: HenriqueCandella.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/henrique-candella-565a93133/"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}
+
+# Joilson Cisne
+-
+  id: 023
+  name: "Joilson"
+  surname: "Cisne"
+  company: "Cromossomo"
+  title: "Software Engineer"
+  bio: "Engenheiro de Computação pelo IME-RJ. Trabalhou em empresas como Peixe Urbano e Descomplica. Atualmente é Software Engineer na área de Digital HeathCare."
+  thumbnailUrl: JoilsonCisne.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/joilsoncisne/" }
+
+# Andrew Silva
+-
+  id: 024
+  name: "Andrew"
+  surname: "Silva"
+  company: "Ingresso Rápido"
+  title: "Coordenador de Tecnologia"
+  bio: "A mais de 10 anos no grupo Movile, misturando tudo com o que trabalhou de BI, infra, backend, android e frontend na Ingresso Rápido. É casado com uma mulher muito paciente e amigão de um pequeno cãozinho."
+  thumbnailUrl: AndrewSilva.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/andrewillard/" }
+    - { name: "twitter", link: "https://twitter.com/andrewillard" }
+
+# Vinicius Perallis
+-
+  id: 025
+  name: "Vinicius"
+  surname: "Perallis"
+  company: "Perallis Security"
+  title: "CEO"
+  bio: "Bacharel em Ciências da Computação pela Universidade Estadual Paulista, Vinícius Perallis é especialista em cibersegurança e o fundador da Perallis Security. Através da Perallis Security, Vinícius pode participar de importantes projetos de defesa cibernética, como: Banco Central, Senado Federal, e  empresas de destaque do setor privado.Vinícius também é o criador do Hacker Rangers, plataforma gamificada para conscientização de usuários em cibersegurança."
+  thumbnailUrl: ViniciusPerallis.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/vperallis" }
+
+# Mateus Pinheiro
+-
+  id: 026
+  name: "Mateus"
+  surname: "Pinheiro"
+  company: "iFood"
+  title: "Design Lead"
+  bio: "Design Lead no iFood, há mais de uma década desenhando coisas clicáveis. Apaixonado por pessoas, com fome de design e sede de negócios."
+  thumbnailUrl: MateusPinheiro.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/mateusnroll" }
+
+# Igor França
+-
+  id: 027
+  name: "Igor"
+  surname: "França"
+  company: "Shawee"
+  title: "Data Engineer"
+  bio: "Maluco por back-end. Posso não saber escrever uma linha de código CSS, mas te ajudo no que precisar com Node.js! Sou fascinado por JavaScript e tudo relacionado à infraestrutura! E por ser fã de Kubernetes, tento aplicar em várias empresas a cultura DevOps, por meio das diretrizes da Engenharia de Confiabilidade do Google (ou SRE, de Site Reliability Engineering!) :D"
+  thumbnailUrl: IgorFranca.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "http://linkedin.com.br/in/Igor-França" }
+    - { name: "github", link: " https://github.com/Horaddrim" }
+
+# Daniele Zandona
+-
+  id: 028
+  name: "Daniele"
+  surname: "Zandona"
+  company: "SIDI"
+  title: "Senior UX Designer"
+  bio: ""
+  thumbnailUrl: DanieleZandona.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/danielez/" }
+
+# Yan Magalhães
+-
+  id: 029
+  name: "Yan"
+  surname: "Magalhães"
+  company: "Ingresso Rápido"
+  title: "Front End Developer"
+  bio: "Desenvolvedor Front-End na Ingresso Rápido, graduado em Ciências da Computação, Yan Magalhães é apaixonado pela web, está sempre acompanhando as novas tecnologias e tendências. Mineiro de coração e recém adotado por Campinas, participa sempre que pode dos eventos e encontros promovidos pela comunidade, procura contribuir em projetos open source e acredita muito no poder que as soluções desenvolvidas por nós, desenvolvedores, que podem mudar o dia-a-dia das pessoas. Adora uma boa conversa acompanhada de café e pão de queijo."
+  thumbnailUrl: YanMagalhaes.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/yaanmagale" }
+    - { name: "github", link: "http://github.com/yanmagale" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/yanmagalhaes/" }
+
+# Mathixa 
+-
+  id: 030
+  name: "Matheus"
+  surname: "Martins do Rego"
+  company: "iFood"
+  title: "Desenvolvedor Frontend Senior"
+  bio: "Matheus é um desenvolvedor muito agitado e apaixonado pela tecnologia, sempre imaginando onde encaixar um pedaço de código que ajudará alguém. Focado na linguagem de programação que dominará o mundo, prega e espalha o JavaScript por onde passa. Desenvolvedor a mais de 8 anos, atualmente aprendendo muito no iFood, busca sempre evoluir em suas habilidades técnicas, nunca se esquecendo do lado humano da área."
+  thumbnailUrl: Mathixa.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/matheusmr00/" }
+    - { name: "github", link: "https://github.com/matheusmr13/" }
+
+# Vinicius Albuquerque
+-
+  id: 031
+  name: "Vinicius"
+  surname: "Albuquerque"
+  company: "Fagron Technologies Jundiaí"
+  title: "Mobile Líder Developer at Fagron Technologies "
+  bio: ""
+  thumbnailUrl: ViniciusAlbuquerque.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/mvalbuquerque " }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/mvalbuquerque " }
+
+# Letícia Tiveron
+-
+  id: 032
+  name: "Letícia"
+  surname: "Tiveron"
+  company: "Cromossomo"
+  title: "Software Engineer"
+  bio: "Experienced full-stack developer, mostly .NET, driven by making an impact on user's life. Feminist who loves technology and strives for equality."
+  thumbnailUrl: LeticiaTiveron.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/leticia-tiveron/" }
+
+# Noe Branagan
+-
+  id: 033
+  name: "Noe"
+  surname: "Branagan"
+  company: "Instacarro.com"
+  title: "Tech Lead"
+  bio: "Mobile Developer, consultant, and instructor with more than 10 years of experience. Mobile development evangelist, with a focus on helping teams to make things efficient."
+  thumbnailUrl: NoeBranagan.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/noeBranagan" }
+
+# Egon Lima
+-
+  id: 034
+  name: "Égon Yuri"
+  surname: "Costa Lima"
+  company: "Dentro da História"
+  title: "Frontend Developer"
+  bio: "Eu sou um desenvolvedor web a mais ou menos 8 anos e adora criar coisas que dão resultado e possuem algum propósito para as pessoas. Sou campineiro, trabalho no Dentro da História como frontend, proporcionando experiências incríveis aos nossos clientes.
+Curto muito viajar e acredito que a melhor forma de se aprender é conhecendo pessoas e histórias de vida diferentes."
+  thumbnailUrl: EgonLima.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/egonyuri" }
+
+# Daniela Chieppe
+-
+  id: 035
+  name: "Daniela"
+  surname: "Chieppe"
+  company: "Prosa & Co | Te Business Lab"
+  title: "Founder | Senior Executive Partner"
+  bio: ""
+  thumbnailUrl: DanielaChieppe.jpg
+  mentor: true
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/daniela-cais-chieppe-3a08ab" }
+
+# Guilherme Solinscki
+-
+  id: 036
+  name: "Guilherme"
+  surname: "Solinscki"
+  company: "Wavy"
+  title: "Developer"
+  bio: "Desenvolvedor há mais de 10 anos com vasta experiência na construção e  aprimoramento de aplicações web. Entusiasta do uso de tecnologias open source e práticas ágeis, atua como desenvolvedor do Chatclub, plataforma de mensageria da Wavy (empresa do grupo Movile). Rubysta de coração, é também apaixonado por Elixir, JavaScript e demais tecnologias que orbitam o desenvolvimento web."
+  thumbnailUrl: GuilhermeSolinscki.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/guilherme-solinscki-469b2255/" }
+
+# José William de Moraes
+-
+  id: 037
+  name: "José William"
+  surname: "de Moraes"
+  company: "CargoX"
+  title: "Desenvolvedor"
+  bio: "Apaixonado por tecnologia e empreendedorismo, trabalho com desenvolvimento há 10 anos, sempre interessado em DevOps, automatizar as coisas e criar valor a partir da tecnologia para facilitar a vida das pessoas."
+  thumbnailUrl: JoseMoraes.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/williammoraes/" }
+
+# William Grasel
+-
+  id: 038
+  name: "William"
+  surname: "Grasel"
+  company: "Itaú Unibanco"
+  title: "Tech Lead and Software Engineer"
+  bio: "Desenvolvedor Web apaixonado com 15 anos de experiência na área, Google Developer Expert, especializado em FrontEnd com Single Page Apps e Progressive Web Apps, contribuidor opensource, consultor, organizador de meetups, palestrante, coordenador da comunidade AngularSP, amante de JavaScript, performance e programação funcional, sempre fascinado por novas tecnologias e de olho nesse tal de Web Assembly."
+  thumbnailUrl: WilliamGrasel.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/william-grasel-799146114/" }
+    - { name: "github", link: "https://github.com/willgm" }
+    - { name: "twitter", link: "https://twitter.com/willgmbr" }
+
+# Clarissa Loureiro
+-
+  id: 039
+  name: "Clarissa"
+  surname: "Loureiro"
+  company: "Unicamp - FEEC"
+  title: "Doutoranda de engenharia elétrica na Unicamp"
+  bio: "Clarissa Loureiro tem graduação em Engenharia Elétrica pela UFCG e pelo INSA (Institut National des Sciences Appliquées de Lyon), França (2006), mestrado em Engenharia Elétrica e Computação na área de Engenharia Biomédica pela Unicamp (2011). Atualmente é doutoranda em Engenharia Elétrica na UNICAMP, e pela George Mason University, em Washington DC, pelo programa da CAPES. Ela foi presidente do IEEE WIE (Women in Engineering) da América Latina e Caribe em 2015, é presidente da  Apogeeu (Associação dos Pós-graduandos da Unicamp). Sua área de pesquisa envolve neurociências, engenharia elétrica aplicada a novos diagnósticos e terapias de doenças como câncer, Alzheimer, Parkinson, entre outras. Já trabalhou com robótica, radiações ionizantes e eletromagnetismo. Faz projetos na área de tecnologia para a educação em escolas públicas. Participou do projeto de planejamento Smart City da secretaria de desenvolvimento de Campinas, já deu mais de 50 palestras pelo Brasil ie América, incentivando o empoderamento das mulheres nas áreas científicas e tecnológicas, participa de algumas ONGs relacionadas a educação infantil e apoio as mulheres no mercado de trabalho. É delegada do estado de São Paulo de políticas públicas e Conselheira do município de Campinas do Conselho Municipal dos Direitos da Mulher, CMDM. Pesquisa também sobre a saúde mental da mulher, e é divulgadora de projetos de empreendedorismo social."
+  thumbnailUrl: ClarissaLoureiro.jpg
+  rockstar: false
+  social:
+    - { name: "facebook", link: "https://m.facebook.com/clarissa.loureiro" }

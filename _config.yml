@@ -1,0 +1,439 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "DevFest Campinas"
+email: "gdgcampinascontato@gmail.com"
+description: "O Devfest é uma conferência de tecnologia voltada para interessados no assunto de Campinas e região."
+baseurl: "/devfest-2025"
+url: "https://gdgcampinas.github.io"
+# permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdgcampinas.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+mapsApiKey: "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI"
+
+aboutEvent:
+  title: "SOBRE O DEVFEST"
+  content: "O Devfest é uma conferência de tecnologia voltada para interessados no assunto de Campinas e região."
+aboutGDG:
+  title: "O QUE É O GDG?"
+  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
+  <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar."
+
+# Organizer Info
+organizerName: "GDG Campinas"
+organizerAlternateName: "Google Developer Group Campinas"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "gdgcampinascontato@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://www.meetup.com/gdgcampinas/"
+
+# Head
+metaKeywords: "event, gdg, devfest, data, fest, google, programming, developers, campinas"
+twitterAccount: "@gdgcampinas"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "https://goo.gl/forms/HZdUM2UqPVusZci12"
+c4pTitle: "Submeta um conteúdo"
+c4pDescription: "Se tiver interesse em compartilhar seu conhecimento com a comunidade submeta uma PALESTRA, se voluntarie como MENTOR e/ou solicite um estande para a sua COMUNIDADE"
+c4sponsorsUrl: "mailto:gdgcampinascontato@gmail.com?Subject=%5BPatrocinio%5D%20Devfest%202018"
+c4mentorUrl: "https://goo.gl/forms/qIcrpQv6mXIyJ2V33"
+c4mentorTitle: "Inscreva-se para mentoria"
+c4mentorDescription: ""
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Principal"}
+#  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Grade"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/mentors/", text: "Mentoria"}
+#  - {permalink: "/kids/", text: "Trilha Kids"}
+#  - {permalink: "/logistics/", text: "Logistics"}
+#  - {permalink: "/hackathon/", text: "Hackathon"}
+#  - {link: "https://goo.gl/forms/giwSyQAtqV4kUgHC3", text: "Torne-se um membro"}
+ - {permalink: "/team/", text: "Time"}
+ - {link: "https://github.com/gdgcampinas/devfest-code-of-conduct/blob/master/README.md", text: "Código de Conduta"} 
+ 
+bottomNavigationLinks:
+ - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
+rightNavigationButtons:
+ - {link: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223", text: "Compre seu ingresso"}
+
+# Hero Block
+heroImage: "hero2.png"
+heroTitle: "DevFest <typeout> 2018"
+eventDate: "24 de Novembro de 2018"
+typeoutTextValues: '"", "Campinas"'
+typeoutFallback: "Campinas"
+# heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
+heroButtons:
+ - {link: "#tickets", text: "Ingressos"}
+#  - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
+
+# About Block
+# aboutTitle: "About GDG DevFest"
+# aboutBlock:
+#  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+#  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+#  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+# statisticBlockTitle: "Dados"
+statisticBlock:
+ - {count: "450", specialCharacter: "", info: "participantes", detail: "de Campinas e região"}
+ - {count: "9", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
+ - {count: "46", specialCharacter: "", info: "palestrantes", detail: "referências nos assuntos"}
+ - {count: "5", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "background-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Destaques"
+rockstarLinkEnabled: true
+rockstarSpeakersButtonText: "Todos palestrantes"
+# rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
+
+# Media
+media:
+  title: "Veja como foi o Devfest 2017"
+  video: "https://www.youtube.com/embed/zE_sph24Qrk"
+  photos:
+    row: 4
+    total: 16
+  button:
+    text: "Devfest 2017"
+    link: "https://gdgcampinas.github.io/devfest-2017/"
+
+# Location Block
+locationBlockTitle: "Localização"
+eventLocationName: "Vitória Concept"
+eventLocationLink: "http://www.vitoriahoteis.com.br/pt/hotel-concept-campinas-o-hotel/"
+eventStreetAddress: "Av. José de Souza Campos, 425"
+eventAddressLocality: "Campinas"
+eventAddressLocalityRegion: "Hotel Vitória Concept"
+eventPostalCode: "13092-123"
+eventAddressCountry: "Brasil"
+eventStartTime: ""
+eventDoorTime: ""
+eventEndTime: ""
+eventPlaceCoordinates: "-22.902318, -47.048125"
+mapCenterCoordinates: "-22.902318, -47.048125"
+mapMobileCenterCoordinates: "-22.902318, -47.048125"
+
+# Venue Block
+venueBlockTitle: "Local"
+venueBigImage: "venue_campinas_0.jpg"
+venueSmallImage1: "venue_campinas_1.jpg"
+venueSmallImage2: "venue_campinas_2.jpg"
+venueSmallImage3: "venue_campinas_3.jpg"
+venueTitle: "Vitória Concept"
+venueFeatures: ["Hotel"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "Esperamos por você!"
+twitterHashTag: "devfestcampinas"
+twitterFeed: "<< twitter_feed_url >>"
+twitterHomeUrl: "https://twitter.com/gdgcampinas"
+
+# Partners Block
+organizersTitle: "Realização"
+partnersTitle: "Patrocínio"
+partnersC4sponsorsButton: "Torne-se um patrocinador"
+
+# Subscribe Block
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "Subscribe for updates"
+# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Ingressos"
+ticketsInfo: "Incluso: Acesso às trilhas de conteúdo, trilha de mentoria, estandes, sorteios e coffees.<br>
+Ingresso dá acesso à trilha Kids, estandes, sorteios e coffees.<br>
+Estudantes devem mostrar comprovante."
+ticketsOffers:
+ -
+  name: "Early Bird (só ingresso)"
+  price: "80,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: ""
+  validThrough: ""
+  disabled: true
+  featured: false  
+  soldOut: true
+  soldOutText: "Esgotado"
+ -
+  name: "Combo A: Ingresso + Camiseta"
+  price: "105,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: ""
+  validThrough: ""
+  featured: false
+  disabled: true
+  soldOut: true
+  soldOutText: "Esgotado"
+ -
+  name: "Combo B: Ingresso + Camiseta + Almoço"
+  price: "151,50"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: ""
+  validThrough: ""
+  featured: false
+  soldOut: true
+  soldOutText: "Esgotado"
+ -
+  name: "Ingresso Estudante (só ingresso)"
+  price: "70,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "20/10/2018T00:00"
+  validThrough: "23/11/2018T23:30"
+  featured: true
+  disabled: false
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Combo Estudante: Ingresso + Camiseta"
+  price: "95,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "29/10/2017T00:00"
+  validThrough: "21/11/2018T00:00"
+  featured: true  
+  disabled: false
+  soldOut: false
+  soldOutText: "Esgotado"
+
+ -
+  name: "1º Lote (só ingresso)"
+  price: "100,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "31/10/2018T00:00"
+  validThrough: "19/10/2018T00:00"
+  disabled: true
+  featured: false
+  soldOut: true
+  soldOutText: "Esgotado"
+
+ -
+  name: "Combo C: 1º Lote + Camiseta"
+  price: "130,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "31/10/2018T00:00"
+  validThrough: "19/10/2018T00:00"
+  disabled: true
+  featured: false
+  soldOut: true
+  soldOutText: "Esgotado"
+
+ -
+  name: "Combo D: 1º Lote + Camiseta + Almoço"
+  price: "172,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "31/10/2018T00:00"
+  validThrough: "19/10/2018T00:00"
+  disabled: true
+  featured: false
+  soldOut: true
+  soldOutText: "Esgotado"
+  
+ -
+  name: "2º Lote (só ingresso)"
+  price: "190,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "19/11/2018T00:00"
+  validThrough: "24/10/2018T00:00"
+  disabled: false
+  featured: true
+  soldOut: false
+  soldOutText: "Esgotado"
+
+ -
+  name: "Kids"
+  price: "25,00"
+  priceCurrency: "R$"
+  ticketsNumber: "TBD"
+  buyButtonLink: "https://www.eventbrite.com.br/e/devfest-campinas-2018-tickets-51723447223"
+  buyButtonText: "Comprar"
+  validFrom: "19/11/2018T00:00"
+  validThrough: "24/10/2018T00:00"
+  disabled: false
+  featured: true
+  soldOut: false
+  soldOutText: "Esgotado"
+
+# Footer
+socialLinks:
+ - {link: "https://www.facebook.com/gdgcampinas/", icon: "facebook"}
+ - {link: "https://www.linkedin.com/company-beta/15240699/", icon: "linkedin"}
+ - {link: "https://twitter.com/gdgcampinas", icon: "twitter"}
+ - {link: "https://plus.google.com/+gdgcampinasOrg", icon: "google-plus"} 
+ 
+#  - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://www.meetup.com/gdgcampinas/", text: "Meetup"}
+   - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
+   - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
+   - {link: "https://gdgcampinas.github.io/devfest-2017/", text: "DevFest Campinas 2017"}
+ 
+  title: "Eventos 2018"
+  links:
+   - {link: "https://gdgcampinas.github.io/androidfest/", text: "AndroidFest"}
+   - {link: "https://gdgcampinas.github.io/datafest/", text: "DataFest"}   
+   - {link: "https://gdgcampinas.github.io/qualityfest/", text: "QualityFest"}
+ -
+  title: "Contatos"
+  links:
+   - {link: "mailto:gdgcampinascontato@gmail.com", text: "gdgcampinascontato@gmail.com"}
+#  -
+#   title: "FAQ"
+#   links:
+#    - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+# blogTitle: "Latest news"
+# blogCommentsEnabled: true
+# discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: true
+emptySessionTitle: "A definir"
+scheduleWarning: "A grade está sujeita a mudanças sem aviso prévio"
+showMentorSessions: false
+
+# Team Block
+teamBlockTitle: "Quem somos"
+aboutUs: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
+  <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar."
+teamOrganizerTitle: "Organizadores"
+
+# Logistics Find Way Block
+# findWayTitle: "Find your way here"
+# findWayDistance: "Distance"
+# findWayDriving: "DRIVING"
+# findWayWalking: "WALKING"
+# findWayBicycling: "BICYCLING"
+# findWayTransit: "TRANSIT"
+# findWayFindFlight: "Find Flight"
+# logisticsMapCenterCoordinates: "49.056728, 3.117289"
+# logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+# logisticsMapAutoDirections: false
+
+# # Logistics Direction Details Block
+# directionDetailsImage: "direction-details.jpg"
+# directionDetailsTitle: "Get around Lviv"
+# directionDetailsCards:
+#  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+#  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+#  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+# directionDetailsWideCards:
+#  -
+#   title: "Questions?"
+#   subCards:
+#    -
+#     title: "Hotels"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#    -
+#     title: "Registration"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#    -
+#     title: "Attendance Details"
+#     links:
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
+# # Hackathon
+# hackathonTitle: "Hackathon"
+# enableHackathon: true
+
+# # Hackathon About Block
+# aboutHackathonTitle: "Meet our themes"
+# hackathonRows:
+#  - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+#  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+#  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# # Hackathon Judges Block
+# judgesImage: "judges.jpg"
+# judgesTitle: "Judges"
+
+# # Hackathon Prizes Block
+# prizesTitle: "Prizes"
+# prizes:
+#  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+#  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+#  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# # Hackathon Location Block
+# hackathonLocationBlockTitle: "Location"
+# hackathonLocationName: "Communa"
+# hackathonLocationLink: "http://communa.net.ua/"
+# hackathonStreetAddress: "1 Halytska St"
+# hackathonAddressLocality: "Lviv"
+# hackathonAddressLocalityRegion: "Lvivska"
+# hackathonPostalCode: "79000"
+# hackathonAddressCountry: "Ukraine"
+# hackathonTimeTitle: "Hack through"
+# hackathonStartTime: "2014-10-24T10:00"
+# hackathonDoorTime: "09:00"
+# hackathonEndTime: "2014-10-25T00:00"
+# viewOnMap: "View on Google Maps"
+# hackathonPlaceCoordinates: "49.840999, 24.031144"
+# hackathonMapCenterCoordinates: "49.840696, 24.028754"
+# hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"

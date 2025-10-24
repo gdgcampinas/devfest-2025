@@ -1,0 +1,144 @@
+# Flavio Pimenta
+-
+  id: 015
+  name: "Flávio"
+  surname: "Pimenta"
+  company: "Assertiva Soluções"
+  title: "Arquiteto Cloud"
+  bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções. Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
+  thumbnailUrl: FlavioPimenta.jpg
+  rockstar: false
+  mentor: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/flaap" }
+    - { name: "twitter", link: "https://twitter.com/pimentaflavio" }
+  sessions:
+    - title: "11:10 - 12:00: Posso falar sobre carreira, devops, backend.. se acordo com o interesse da turma"
+    - title: "14:00: Posso falar sobre carreira, devops, backend.. se acordo com o interesse da turma"
+  
+# Igor Ming
+-
+  id: 021
+  name: "Igor"
+  surname: "Ming"
+  company: "S2 IT"
+  title: "Especialista Frontend"
+  bio: "Apreciador de tecnologias open source, especialista Frontend e alguém realmente apaixonado pelo que faz. Seja atuando diretamente, ou compartilhando/trocando conhecimento."
+  thumbnailUrl: IgorMing.jpg
+  rockstar: false
+  mentor: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/igor-mesquita-12848033/" }
+  sessions:
+    - title: "10h20 - 11h20: Construir seu plano de carreira, sem depender do plano de carreira de sua empresa, é um dos fatores mais importantes para um profissional de TI."
+
+  # Daniela Chieppe
+-
+  id: 035
+  name: "Daniela"
+  surname: "Chieppe"
+  company: "Prosa & Co | Te Business Lab"
+  title: "Founder | Senior Executive Partner"
+  bio: ""
+  thumbnailUrl: DanielaChieppe.jpg
+  mentor: true
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/daniela-cais-chieppe-3a08ab" }
+  sessions:
+    - title: "Manhã: Orientação sobre Comunicação Interpessoal - de acordo com a necessidade profissional de cada um."
+
+# Maujor (Maurício Samy Silva)
+-
+  id: 004
+  name: "Maujor"
+  surname: "(Maurício Samy Silva)"
+  company: ""
+  title: "Dinossauro do CSS"
+  bio: "Maurício Samy Silva também conhecido como \"Dinossauro das CSS\" ou simplesmente Maujor® é graduado em Engenharia Civil pelo Instituto Militar de Engenharia (IME). Exerceu o magistério paralelamente à Engenharia, tendo sido, ao longo de 25 anos, professor de Geometria Descritiva e Matemática. Sua experiência com desenvolvimento web iniciou-se em 1999, após se aposentar aos 56 anos e conhecer o FrontPage. Em 2002, por acaso teve seu primeiro contato com o site do W3C, começou a pesquisar e estudar os Padrões Web e não parou mais. Maujor é autor de vários livros e mantém o site https://maujor.com."
+  thumbnailUrl: Maujor.jpg
+  mentor: true
+  rockstar: true
+  social:
+    - { name: "twitter", link: "https://twitter.com/maujor" }
+    - { name: "site", link: "https://maujor.com" }
+  sessions:
+    - title: "10:00h - 11:30h: Desenvolvimento frontend"
+
+# Douglas Augusto
+-
+  id: 012
+  name: "Douglas"
+  surname: "Augusto"
+  company: "Avenue Code"
+  title: "Cloud Engineer"
+  bio: "Douglas Augusto é apaixonado pelas áreas de Cloud Computing e Machine Learning, atualmente trabalha como Cloud Engineer na Avenue Code, empresa norte americana que presta consultoria em tecnologia para grandes clientes.  Na sua carreira, participou de projetos inovadores para clientes como Coca Cola, Fiat e Jeep. Possui certificado de Arquiteto Google Cloud e tem clientes particulares na área de Aprendizado Máquina. É organizador das comunidades GDG João Monlevade e a Google Cloud Developer Community Belo Horizonte. Presta mentorias de Cloud Computing e Machine Learning no Google Launchpad, programa de aceleração de startups da Google."
+  thumbnailUrl: DouglasAugusto.jpg
+  mentor: true
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/douglasaugusto/" }
+    - { name: "site", link: "https://douglasaugus.to/" }
+  sessions:
+    - title: "15h10 - 16h30: Posso mentorar nos mesmo tópicos que presto mentorias no Google Launchpad, que são: Cloud Computing e Machine Learning"
+
+# Diego Felipe Lassa
+-
+  id: 012
+  name: "Diego Felipe"
+  surname: "Lassa"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: DiegoFelipeLassa.jpg
+  mentor: true
+  rockstar: false
+  social: []
+  sessions:
+    - title: "17h: Teoria de programacao / Java / Android"
+
+# Rodrigo Pokemon
+-
+  id: 017
+  name: "Rodrigo"
+  surname: "Pokemon"
+  company: "iMasters"
+  title: "Community Manager"
+  bio: "Bacharel em Matemática Aplicada e Computacional pela Universidade Federal Rural do Rio de Janeiro, MBA em Engenharia de Software Orientada para Serviço pela Metrocamp. Community Manager no iMasters. Programador desde 1999. Evangelista PHPSP. Desenvolve sistemas desde batalhas Pokemon para mIRC até robôs automatizadores de tarefas."
+  thumbnailUrl: RodrigoPokemon.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/pokemaobr/" }
+  sessions:
+    - title: "16h30 - 17h: php, carreira, comunidade, organização de evento, programação web"
+
+# Henrique Candella
+-
+  id: 022
+  name: "Henrique"
+  surname: "Candella"
+  company: "Instituto da Família"
+  title: "Psicanalista"
+  bio: "Psicanalista e Organizar GDG Campinas, Coordenador do Instituto da Família."
+  thumbnailUrl: HenriqueCandella.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/henrique-candella-565a93133/"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}
+  sessions:
+    - title: "14h00"
+
+# Daniele Zandona
+-
+  id: 028
+  name: "Daniele"
+  surname: "Zandona"
+  company: "SIDI"
+  title: "Senior UX Designer"
+  bio: ""
+  thumbnailUrl: DanieleZandona.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/danielez/" }
+  sessions:
+    - title: "17h00"
