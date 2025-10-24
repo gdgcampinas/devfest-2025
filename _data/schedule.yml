@@ -1,6 +1,6 @@
 - 
-  date: "2018-11-24"
-  dateReadable: "24 de Novembro"
+  date: "2025-11-29"
+  dateReadable: "29 de Novembro"
   tracks:
     - {title: "Back-end", color: "#4285F4"}
     - {title: "Front-end web", color: "#34A853"}
