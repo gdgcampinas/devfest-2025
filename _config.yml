@@ -94,7 +94,7 @@ heroButtons:
 statisticBlockImage: "statistic.jpg"
 # statisticBlockTitle: "Dados"
 statisticBlock:
- - {count: "450", specialCharacter: "", info: "participantes", detail: "de Campinas e região"}
+ - {count: "500", specialCharacter: "", info: "participantes", detail: "de Campinas e região"}
  - {count: "9", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
  - {count: "46", specialCharacter: "", info: "palestrantes", detail: "referências nos assuntos"}
  - {count: "5", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
@@ -310,7 +310,7 @@ footerBlocks:
    - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
    - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
    - {link: "https://gdgcampinas.github.io/devfest-2017/", text: "DevFest Campinas 2017"}
-    - {link: "https://gdgcampinas.github.io/devfest-2018/", text: "DevFest Campinas 2018"}
+   - {link: "https://gdgcampinas.github.io/devfest-2018/", text: "DevFest Campinas 2018"}
  
   title: "Eventos 2018"
   links:
