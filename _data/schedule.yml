@@ -2,8 +2,8 @@
   date: "2025-11-29"
   dateReadable: "29 de Novembro"
   tracks:
-    - {title: "Back-end", color: "#4285F4"}
-    - {title: "Front-end web", color: "#34A853"}
+    - {title: "IA", color: "#4285F4"}
+    - {title: "Front-end/Back-end/Data", color: "#34A853"}
     - {title: "Mobile", color: "#CCCCCC"}
     - {title: "UI/UX", color: "#EA4335"}
     - {title: "Awareness", color: "#FBBC05"}
@@ -25,3 +25,4 @@
     - { startTime: "16:40", endTime: "17:20", sessionIds: [1301, 1302, 1303, 1304, 1305] }
     - { startTime: "17:20", endTime: "18:10", sessionIds: [1401] }
     - { startTime: "18:10", endTime: "18:40", sessionIds: [1500] }
+    
