@@ -20,5 +20,5 @@
 -
   group: "Apoio"
   elements:
-    - {name: "Fatec", description: "Fatec Campinas", link: "https://www.govision.com.br/", imageUrl: "GoVision.png", width: "80%"}
+    - {name: "Fatec", description: "Fatec Campinas", link: "https://fateccampinas.edu.br/site/wp-content/uploads/2025/06/", imageUrl: "Logo_Fatec.png", width: "80%"}
     - {name: "FIAP", description: "FIAP", link: "https://www.govision.com.br/", imageUrl: "GoVision.png", width: "80%"}
