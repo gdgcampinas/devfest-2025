@@ -3,21 +3,22 @@
   elements:
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "googledevelopers.png"}
 -
-  group: "Especialista"
-  elements:
-    - {name: "Movile", description: "Movile", link: "https://movile.com/", imageUrl: "movile.png", width: "115%"}
+  # group: "Especialista"
+  # elements:
+  #   - {name: "Movile", description: "Movile", link: "https://movile.com/", imageUrl: "movile.png", width: "115%"}
 -
-  group: "Senior"
-  elements:
-    - {name: "CargoX", description: "CargoX", link: "https://cargox.com.br/", imageUrl: "cargox.svg"}
+  # group: "Senior"
+  # elements:
+  #   - {name: "CargoX", description: "CargoX", link: "https://cargox.com.br/", imageUrl: "cargox.svg"}
 -
-  group: "Intern"
-  elements:
-    - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}
-    - {name: "idWall", description: "idWall", link: "http://idwall.co/", imageUrl: "idwall.png"}
-    - {name: "Botti", description: "Botti", link: "https://www.linkedin.com/in/rodrigo-botti/", imageUrl: "botti.png"}
+  # group: "Intern"
+  # elements:
+  #   - {name: "CI&T", description: "CI&T", link: "http://www.ciandt.com/br-pt", imageUrl: "ciet.png", width: "80%"}
+  #   - {name: "idWall", description: "idWall", link: "http://idwall.co/", imageUrl: "idwall.png"}
+  #   - {name: "Botti", description: "Botti", link: "https://www.linkedin.com/in/rodrigo-botti/", imageUrl: "botti.png"}
 
 -
   group: "Apoio"
   elements:
-    - {name: "GoVision", description: "GoVision", link: "https://www.govision.com.br/", imageUrl: "GoVision.png", width: "80%"}
+    - {name: "Fatec", description: "Fatec Campinas", link: "https://www.govision.com.br/", imageUrl: "GoVision.png", width: "80%"}
+    - {name: "FIAP", description: "FIAP", link: "https://www.govision.com.br/", imageUrl: "GoVision.png", width: "80%"}
